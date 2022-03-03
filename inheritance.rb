@@ -31,3 +31,4 @@ bike = Bike.new()
 
 p bike.turn
 p bike.honk_horn
+p bike.honk_horn
